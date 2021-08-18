@@ -17,7 +17,7 @@ Step 5: Open browser.
 Fifth, open a browser and go to the URL "http://localhost/phpmyadmin/"
 
 Step 7: Download & Import “microfinance.sql”.
-Seventh, click browse file and select the file "microfinance.sql" which is located in the "database" folder of KT2 and after importing click "go".
+Seventh, click browse file and select the file "microfinance.sql" and after importing click "go".
 
 Step 8: Open the browser and type the folder name.
 Eight, open a browser and go to the URL "http://localhost/microfinance/login.php".
